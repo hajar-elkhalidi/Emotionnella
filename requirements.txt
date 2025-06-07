@@ -5,7 +5,6 @@ numpy
 seaborn
 scikit-learn
 openpyxl
-fpdf
 kaleido
 fpdf2
 plotly
