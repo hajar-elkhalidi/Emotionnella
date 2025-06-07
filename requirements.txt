@@ -8,3 +8,4 @@ openpyxl
 fpdf
 kaleido
 fpdf2
+plotly
